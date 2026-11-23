@@ -1,5 +1,5 @@
 
-import {cert,initializeApp} from "firebase"
+import {cert,initializeApp} from "firebase-admin"
 
 import serviceAccount from "../serviceAccountKey.json" with {type:"json"};
 
