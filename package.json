@@ -1,0 +1,23 @@
+{
+  "name": "backendcxai",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/obaid-786/CortexAi_Backend#readme",
+  "bugs": {
+    "url": "https://github.com/obaid-786/CortexAi_Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obaid-786/CortexAi_Backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ioredis": "^6.1.0"
+  }
+}
